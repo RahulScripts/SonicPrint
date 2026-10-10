@@ -1,0 +1,26 @@
+# Private Spotify Data & Derived Analytics (NEVER commit personal data)
+SpotifyData/
+derived_data/
+web/public/data/
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+env/
+dist/
+build/
+*.egg-info/
+
+# Node / Web
+node_modules/
+web/node_modules/
+web/dist/
+.DS_Store
+*.log
+.env
+.env.*
