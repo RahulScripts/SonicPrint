@@ -62,7 +62,8 @@ Open `http://localhost:5173` in your browser.
 
 ## How to get your Spotify data?
 
-Go to your Spotify account's ["account privacy" page](https://www.spotify.com/us/account/privacy/), and request your data from Spotify
+Go to your Spotify account's ["account privacy" page](https://www.spotify.com/us/account/privacy/), and request your data from Spotify.
+
 Spotify takes about 7-10 days to get your data and send it to you. 
     
 ---
