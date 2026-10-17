@@ -33,7 +33,7 @@ SonicPrint/
 
 ### 1. Run the Python Data Pipeline
 
-Place your raw Spotify export files (`StreamingHistory_music_*.json`) inside `SpotifyData/` (excluded from Git via `.gitignore`), then run:
+Place your raw Spotify export files (`StreamingHistory_music_*.json`) inside `SpotifyData/`, then run:
 
 ```bash
 python -m soundprint.cli
@@ -71,4 +71,3 @@ Spotify takes about 7-10 days to get your data and send it to you.
 ## Privacy & Data Handling
 
 - **Zero External Transmission**: All processing and rendering happen locally. No external APIs or tracking scripts are used.
-- **Git Exclusions**: `.gitignore` excludes `SpotifyData/`, `derived_data/`, and `web/public/data/` so personal listening data is never committed to version control.
